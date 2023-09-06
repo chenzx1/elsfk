@@ -1,0 +1,12 @@
+﻿  game.cpp
+D:\C\新建文件夹\Project1\Project1\game.cpp(169,6): warning C4996: 'gmtime': This function or variable may be unsafe. Consider using gmtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C\新建文件夹\Project1\Project1\game.cpp(466,7): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\C\新建文件夹\Project1\Project1\game.cpp(534,10): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\C\新建文件夹\Project1\Project1\game.cpp(751,7): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+D:\C\新建文件夹\Project1\Project1\game.cpp(753,8): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\C\新建文件夹\Project1\Project1\game.cpp(777,7): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+D:\C\新建文件夹\Project1\Project1\game.cpp(779,12): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\C\新建文件夹\Project1\Project1\game.cpp(925,12): warning C4305: “参数”: 从“double”到“float”截断
+D:\C\新建文件夹\Project1\Project1\game.cpp(938,12): warning C4305: “参数”: 从“double”到“float”截断
+D:\C\新建文件夹\Project1\Project1\game.cpp(951,12): warning C4305: “参数”: 从“double”到“float”截断
+  Project1.vcxproj -> D:\C\新建文件夹\Project1\x64\Debug\Project1.exe
